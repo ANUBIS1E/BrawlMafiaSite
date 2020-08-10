@@ -1,2 +1,2 @@
 # BrawlMafiaSite
-Site for Teelegrsm bot - Brawl Mafia
+Site for Telegram bot - Brawl Mafia
